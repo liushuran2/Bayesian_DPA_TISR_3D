@@ -1,0 +1,7 @@
+# ninja log v5
+1	3404	1725366198644127411	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/cpu/deform_cpu.o	67c2968bcabe27ec
+1	11456	1725366206688019100	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/cuda/deform_conv_cuda.o	cc3c3c1fbedfed0d
+1	19199	1725366214427915322	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/vision.o	3a47fe1131671148
+1	5510	1725369711013321344	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/cpu/deform_cpu.o	31b97f96f9c6d3e7
+1	16000	1725369721505455805	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/cuda/deform_conv_cuda.o	53f91e44f1736931
+2	19725	1725369725225502498	/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/build/temp.linux-x86_64-cpython-38/home/wyw/lsr/Bayesian_DPA_TISR_3D/dcn/src/vision.o	4685dd5fd5d8826e

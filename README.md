@@ -49,7 +49,7 @@ This repository is for Bayesian DPA-TISR introduced in the following paper:
 3. cd to dcn, run 
 ```bash
     bash make.sh
-    ```
+```
 
 ## 🏰 Model Zoo
 | Models                            | Cell Structure  |Download                                  |
